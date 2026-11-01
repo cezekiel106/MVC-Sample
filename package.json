@@ -1,0 +1,10 @@
+{
+  "name": "Experimental",
+  "uuid": "d5852574-953d-49ca-bc74-0f7e20540f7b",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "dependencies": {
+    "cc": "^3.0.1"
+  }
+}
